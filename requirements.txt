@@ -3,3 +3,4 @@ pillow
 imagehash
 duckduckgo_search
 tqdm
+yt-dlp
