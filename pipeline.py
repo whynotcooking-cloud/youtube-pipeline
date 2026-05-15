@@ -563,9 +563,10 @@ def main():
         video_rows_all.extend(video_rows)
         print(f"  Итого видео скачано: {len(video_rows)}")
 
-    wm = move_watermarks(photo_archive)
+    wm = []
     write_report(root / "report_watermarks.csv", wm)
-    print(f"\nWatermark-подозрения перенесены: {len(wm)}")
+    print("
+Watermark-фильтр отключён: фото больше не переносятся автоматически")
 
     dups = move_duplicates(photo_archive)
     write_report(root / "report_duplicates.csv", dups)
