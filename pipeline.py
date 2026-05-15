@@ -45,44 +45,39 @@ def parse_blocks(path):
     text = path.read_text(encoding="utf-8")
     blocks = []
     current = None
-    in_queries = False
+    mode = None
 
     for line in text.splitlines():
-        s = line.strip()
+        s = line.strip().replace("\u2028", " ")
         if not s:
             continue
 
-        m = re.match(r"^#+\s*БЛОК\s*(\d+)\s*[—-]\s*(.+)$", s, re.I)
+        m = re.match(r"^(\d+)\.\s*(.+)$", s)
         if m:
             if current:
                 blocks.append(current)
-            current = Block(int(m.group(1)), safe_name(m.group(2)))
-            in_queries = False
+            current = Block(int(m.group(1)), safe_name(m.group(2)), [])
+            mode = None
             continue
 
         if current is None:
             continue
 
-        m = re.match(r"^Фото\s*:\s*(\d+)", s, re.I)
-        if m:
-            current.count = int(m.group(1))
+        low = s.lower()
+
+        if "русские запросы" in low:
+            mode = "ru"
             continue
 
-        if s.lower().startswith("запросы"):
-            in_queries = True
+        if "english queries" in low:
+            mode = "en"
             continue
 
-        if s.startswith("-"):
+        if s.startswith("•") or s.startswith("-"):
             q = s[1:].strip()
             if q:
                 current.queries.append(q)
             continue
-
-        m = re.match(r"^\d+[\.\)]\s*(.+)$", s)
-        if m:
-            q = m.group(1).strip()
-            if q:
-                current.queries.append(q)
 
     if current:
         blocks.append(current)
@@ -91,7 +86,6 @@ def parse_blocks(path):
         raise RuntimeError("Не нашёл блоки в blocks.txt")
 
     return blocks
-
 
 def create_structure(project_name, blocks):
     root = Path.home() / "Desktop" / "YOUTUBE_PROJECTS" / safe_name(project_name)
@@ -551,17 +545,11 @@ def main():
 
     print("\nПРОЕКТ:", root)
 
-    video_rows_all = []
-
     for block in blocks:
         print(f"\n========== Блок {block.index:03d}: {block.title} ==========")
 
         photo_count = download_photos_for_block(block, photo_block_dirs[block.index])
         print(f"  Итого фото скачано: {photo_count}")
-
-        video_rows = download_videos_for_block(block, video_block_dirs[block.index])
-        video_rows_all.extend(video_rows)
-        print(f"  Итого видео скачано: {len(video_rows)}")
 
     wm = []
     write_report(root / "report_watermarks.csv", wm)
