@@ -4,3 +4,5 @@ imagehash
 duckduckgo_search
 tqdm
 yt-dlp
+internetarchive
+typing_extensions
