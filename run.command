@@ -1,10 +1,4 @@
 #!/bin/bash
-
 cd "$(dirname "$0")"
-
-python3 -m pip install --upgrade pip
-
-pip3 install -r requirements.txt
-
-python3 pipeline.py
-
+source .venv/bin/activate
+python3 pipeline.py --blocks blocks.txt --project "15 пытки НКВД"

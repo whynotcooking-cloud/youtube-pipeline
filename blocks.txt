@@ -1,27 +1,301 @@
-## БЛОК 1 — ЛЕФОРТОВО / НАЧАЛО ТЕРРОРА
-Фото: 8
-Запросы:
-- Лефортовская тюрьма НКВД архив / Lefortovo prison NKVD archive
-- подвалы Лефортово 1938 / Lefortovo basement 1938
-- следователь НКВД допрос / NKVD investigator interrogation
-- Лубянка архивные фото / Lubyanka archive photos
-- советская тюрьма 1930-х / Soviet prison 1930s
-- камеры НКВД СССР / NKVD prison cells USSR
-- сталинские репрессии тюрьма / Stalin repression prison
-- НКВД допросы архив / NKVD interrogations archive
-- аресты ночью СССР / Soviet night arrests
-- политические заключённые СССР / Soviet political prisoners
+Структура сюжета и поисковые запросы для медиаматериалов
 
-## БЛОК 2 — БОЛЬШОЙ ТЕРРОР / ПРИКАЗ 00447
-Фото: 8
-Запросы:
-- приказ НКВД 00447 / NKVD Order 00447
-- большой террор 1937 / Great Terror 1937
-- ежовщина архив / Yezhovshchina archive
-- массовые аресты СССР / mass arrests USSR
-- враги народа плакаты / enemies of the people posters
-- НКВД 1937 хроника / NKVD 1937 footage
-- репрессии СССР архив / Soviet repressions archive
-- сотрудники НКВД 1930-е / NKVD officers 1930s
-- сталинские чистки / Stalin purges
-- советская пропаганда 1937 / Soviet propaganda 1937
+1. Хук: подвалы НКВД и атмосфера террора
+РУССКИЕ ЗАПРОСЫ:
+• подвалы НКВД Лубянка архив
+• допросы НКВД реконструкция
+• Лубянка коридоры архив
+• следователи НКВД фото
+• советская тюрьма 1937
+• НКВД допросы СССР
+• Лефортово архивные фото
+• репрессии СССР подвалы
+• сталинский террор архив
+• НКВД интерьер тюрьмы
+
+ENGLISH QUERIES:
+• NKVD basement archive
+• NKVD interrogation room
+• Lubyanka prison archive
+• Soviet prison 1937
+• NKVD investigators photo
+• Great Purge archive
+• Lefortovo prison interior
+• Stalin terror documentary
+• USSR interrogation room
+• NKVD torture archive
+
+2. Приказ Берии 1953 и признание пыток
+РУССКИЕ ЗАПРОСЫ:
+• Берия приказ 0068
+• Лаврентий Берия документы
+• архив Берия 1953
+• НКВД пытки документы
+• Лубянка приказ секретно
+• советские архивы НКВД
+• Берия Лефортово
+• приказ о ликвидации пыточных
+• МВД СССР 1953
+• архив КГБ документы
+
+ENGLISH QUERIES:
+• Beria order 0068
+• Lavrentiy Beria archive
+• NKVD torture documents
+• Soviet secret order 1953
+• Lubyanka archive documents
+• MVD USSR 1953
+• NKVD interrogation order
+• Soviet security archive
+• Lefortovo prison USSR
+• KGB archive files
+
+3. Первые методы пыток: раскалённые камеры и конвейер
+РУССКИЕ ЗАПРОСЫ:
+• конвейер НКВД
+• поджаривание НКВД
+• советские тюрьмы 1930
+• камеры НКВД архив
+• сталинские репрессии камеры
+• конвейер допросов СССР
+• Лефортово камеры
+• НКВД коридоры
+• репрессии 1937 архив
+• тюрьмы СССР внутри
+
+ENGLISH QUERIES:
+• NKVD conveyor interrogation
+• Soviet torture chambers
+• heated prison cells USSR
+• Stalin repression prison
+• NKVD prison corridor
+• Lefortovo cell archive
+• Soviet interrogation methods
+• Great Terror prison
+• USSR prison interior
+• NKVD torture methods
+
+4. Королёв и Глушко под следствием
+РУССКИЕ ЗАПРОСЫ:
+• Королёв НКВД
+• Сергей Королёв арест
+• Глушко допросы
+• шарашка НКВД
+• советская космонавтика репрессии
+• Реактивный институт СССР
+• Колыма Королёв
+• Королёв архивные фото
+• Глушко СССР
+• НКВД ученые
+
+ENGLISH QUERIES:
+• Sergey Korolev arrest
+• Korolev NKVD
+• Valentin Glushko interrogation
+• NKVD sharashka
+• Soviet space scientists repression
+• Korolev Kolyma
+• Soviet rocket institute
+• Korolev archive photo
+• Glushko USSR
+• Stalin repression scientists
+
+5. Вавилов, Мейерхольд и уничтожение интеллигенции
+РУССКИЕ ЗАПРОСЫ:
+• Вавилов НКВД
+• Мейерхольд допрос
+• Зинаида Райх убийство
+• Лубянка интеллигенция
+• репрессии ученых СССР
+• советский театр репрессии
+• Мейерхольд письмо Молотову
+• Николай Вавилов тюрьма
+• артисты репрессии СССР
+• Большой террор культура
+
+ENGLISH QUERIES:
+• Nikolai Vavilov prison
+• Meyerhold interrogation
+• Zinaida Reich murder
+• Soviet intelligentsia repression
+• Great Purge artists
+• Meyerhold letter Molotov
+• Vavilov NKVD
+• Stalin repression culture
+• Soviet theater repression
+• Lubyanka intellectuals
+
+6. Изощрённые методы давления
+РУССКИЕ ЗАПРОСЫ:
+• пытка стоянием НКВД
+• психологические пытки СССР
+• инсценировка расстрела НКВД
+• Архипелаг ГУЛАГ пытки
+• женщина следователь НКВД
+• советские методы допроса
+• НКВД голодные камеры
+• конвейер пыток СССР
+• следствие НКВД
+• психологическое давление НКВД
+
+ENGLISH QUERIES:
+• NKVD psychological torture
+• mock execution USSR
+• standing torture NKVD
+• Gulag interrogation methods
+• Soviet torture techniques
+• NKVD starvation cell
+• NKVD female investigator
+• USSR interrogation pressure
+• Great Terror torture
+• Soviet prison torture
+
+7. Химические методы и слухи о препаратах
+РУССКИЕ ЗАПРОСЫ:
+• дело врачей НКВД
+• Лев Левин врач
+• снадобье НКВД
+• психотропные препараты СССР
+• дело Бухарина
+• советские медицинские эксперименты
+• сталинские процессы
+• допросы НКВД препараты
+• ЕАК дело
+• архив НКВД врачи
+
+ENGLISH QUERIES:
+• Doctors Plot USSR
+• Lev Levin physician
+• NKVD drugs interrogation
+• Soviet psychotropic experiments
+• Bukharin trial archive
+• Stalin show trials
+• NKVD medical torture
+• Doctors Plot archive
+• Soviet interrogation drugs
+• EAK case USSR
+
+8. Фальсификация дел: забойщики и литераторы
+РУССКИЕ ЗАПРОСЫ:
+• забойщики НКВД
+• литераторы НКВД
+• фальсификация дел СССР
+• поддельные протоколы НКВД
+• Кунцевский НКВД
+• липачество НКВД
+• Бутовский полигон дела
+• следственные дела 1937
+• НКВД печатные машинки
+• архивные протоколы СССР
+
+ENGLISH QUERIES:
+• NKVD falsified files
+• NKVD forged protocols
+• zaboyshchiki NKVD
+• literators NKVD
+• Soviet fabricated cases
+• Butovo archive
+• NKVD paperwork
+• Great Purge documents
+• USSR fake confessions
+• NKVD typewriter documents
+
+9. Ежов, Сталин и официальное разрешение пыток
+РУССКИЕ ЗАПРОСЫ:
+• Ежов НКВД
+• ежовщина архив
+• шифротелеграмма Сталина
+• меры физического воздействия
+• Большой террор документы
+• НКВД 1937
+• Сталин НКВД архив
+• Михаил Шрейдер
+• директивы НКВД
+• сталинские репрессии документы
+
+ENGLISH QUERIES:
+• Yezhov NKVD
+• Yezhovshchina archive
+• Stalin telegram torture
+• physical measures NKVD
+• Great Terror documents
+• NKVD 1937 archive
+• Stalin NKVD order
+• Mikhail Shreider
+• Soviet repression files
+• NKVD directives
+
+10. Карташов и томские подвалы НКВД
+РУССКИЕ ЗАПРОСЫ:
+• Антон Карташов НКВД
+• Томск НКВД подвал
+• расстрельная комната НКВД
+• Томские репрессии
+• НКВД Томск архив
+• сталинские подвалы
+• допросы Томск СССР
+• Томск Ленина 42
+• НКВД воспоминания
+• следователи НКВД Томск
+
+ENGLISH QUERIES:
+• Anton Kartashov NKVD
+• Tomsk NKVD basement
+• NKVD execution room
+• Tomsk repression archive
+• Soviet torture basement
+• NKVD Tomsk
+• USSR interrogation Tomsk
+• Stalin repression Siberia
+• NKVD memoirs
+• Tomsk prison USSR
+
+11. Дело врачей и падение палачей
+РУССКИЕ ЗАПРОСЫ:
+• дело врачей СССР
+• Абакумов арест
+• Рюмин НКВД
+• Меркулов Влодзимирский
+• Берия арест
+• сталинские врачи
+• Лефортово 1953
+• МГБ СССР
+• послевоенные репрессии
+• Берия расстрел
+
+ENGLISH QUERIES:
+• Doctors Plot USSR
+• Abakumov arrest
+• Ryumin NKVD
+• Beria execution
+• MGB USSR
+• postwar Soviet repression
+• Lefortovo 1953
+• Stalin doctors case
+• Merkulov Vlodzimirsky
+• NKVD officials arrested
+
+12. Архивы, Коммунарка, Бутово и наследие системы
+РУССКИЕ ЗАПРОСЫ:
+• Бутовский полигон
+• Коммунарка НКВД
+• жертвы репрессий СССР
+• стена памяти репрессий
+• массовые расстрелы СССР
+• архивы НКВД
+• мемориал Бутово
+• Коммунарка захоронения
+• репрессии память
+• сталинские архивы
+
+ENGLISH QUERIES:
+• Butovo firing range
+• Kommunarka NKVD
+• Great Terror memorial
+• Stalin repression victims
+• NKVD archives
+• Butovo memorial
+• mass executions USSR
+• Kommunarka burial site
+• Wall of Grief Moscow
+• Soviet repression archive
