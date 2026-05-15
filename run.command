@@ -1,9 +1,5 @@
 #!/bin/bash
-
 cd "$(dirname "$0")"
-
 python3 -m pip install --upgrade pip
-
-pip3 install -r requirements.txt
-
-python3 pipeline.py
+python3 -m pip install -r requirements.txt
+python3 pipeline.py --blocks blocks.txt --project "Большой террор СССР TEST"
