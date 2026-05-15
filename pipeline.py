@@ -565,18 +565,6 @@ def main():
 
     wm = []
     write_report(root / "report_watermarks.csv", wm)
-    print("
-Watermark-фильтр отключён: фото больше не переносятся автоматически")
 
-    dups = move_duplicates(photo_archive)
-    write_report(root / "report_duplicates.csv", dups)
-    print(f"Дубли перенесены: {len(dups)}")
-
-    write_report(root / "report_videos.csv", video_rows_all)
-
-    print("\nГОТОВО.")
-    print("Папка проекта:", root)
-
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
